@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name":"GitHum",
+        "url":"#",
+        "href":"https://github.com/machanic16",
+        "comentario":"visita mi pag en GitHub"
+    },
+    {
+        "id":2,
+        "name":"Gmail",
+        "url":"https://3.bp.blogspot.com/-rZLDbfQdt4A/XCrIyYkW_XI/AAAAAAAAH_c/65QvUQJnv-oFNFS_aA3IDS57L_QPZbWfQCLcBGAs/s1600/google-plus.png",
+        "href":"https://mail.google.com",
+        "comentario":"envia un email a jatr160397@gmail.com con la info de un proyecto que quiere materializar"
+    },
+    {
+        "id":3,
+        "name":"LinkedIn",
+        "url":"https://4.bp.blogspot.com/-0KtSvK3BydE/XCrIzgI3RqI/AAAAAAAAH_w/n_rr5DS92uk9EWEegcxeqAcSkV36OWEOgCLcBGAs/s1600/linkedin.png",
+        "href":"https://www.linkedin.com/in/joel-tovar-ramos-22a053156/",
+        "comentario":"puedes ver aqui mi perfil de LinkedIn"
+    },
+    {
+        "id":4,
+        "name":"Instagram",
+        "url":"https://4.bp.blogspot.com/-Ilxti1UuUuI/XCrIy6hBAcI/AAAAAAAAH_k/QV5KbuB9p3QB064J08W2v-YRiuslTZnLgCLcBGAs/s1600/instagram.png",
+        "href":"https://www.instagram.com/j1rastaman/?hl=es",
+        "comentario":"tambien leere los DM"
+    },
+    {
+        "id":5,
+        "name":"Twitter",
+        "url":"https://3.bp.blogspot.com/-E4jytrbmLbY/XCrI2Xd_hUI/AAAAAAAAIAo/qXt-bJg1UpMZmTjCJymxWEOGXWEQ2mv3ACLcBGAs/s1600/twitter.png",
+        "href":"https://twitter.com/joel16tovar",
+        "comentario":"por aqui dejo mi twitter"
+    }
+]

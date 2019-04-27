@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "src":"../images/css.png",
+        "name":"CSS",
+        "comentario":" es un lenguaje de diseño gráfico para crear la presentación de un documento estructurado escrito en un lenguaje de marcado."
+    },
+    {
+        "id":2,
+        "src":"../images/animations.jpg",
+        "name":"Animation",
+        "comentario":"es un lenguaje de diseño gráfico para crear la presentación de un documento estructurado escrito en un lenguaje de marcado.Conjunto de gráficos, a una determinada velocidad, crean la ilusión de movimiento.Entre los formatos de animación."
+    },
+    {
+        "id":3,
+        "src":"../images/bootstrap.jpg",
+        "name":"Bootstrap",
+        "comentario":"es un Framework frontend que agilisa mucho el tiempo de dedicado a asignar estilos."
+    },
+    {
+        "id":4,
+        "src":"../images/html.png",
+        "name":"Html",
+        "comentario":"Es el elemento mas basico de construccion de una pag web y la manera el la cual organizar el contenido de la pag."
+    },
+    {
+        "id":5,
+        "src":"../images/js.png",
+        "name":"JS",
+        "comentario":"Es la manera en la que se logra tener interaccion con el usuario y hacer dinamica una pag."
+    },
+    {
+        "id":6,
+        "src":"../images/react.png",
+        "name":"React.Js",
+        "comentario":"es un poderosa libreria de JS usada para dar velocidad a la pag y hacer representaciones graficas de datos ordenados."
+    },
+    {
+        "id":7,
+        "src":"../images/responsive.jpg",
+        "name":"Responsive",
+        "comentario":"Es la manera de pensamiento al momento de construir una pag web para que esta se vea bien en  cualquier dispositivo."
+    }
+]
