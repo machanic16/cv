@@ -8,11 +8,10 @@ import SkillsData from '../data/SkillsData.json'
 
 
 class Main extends React.Component {
-
     render() {
         return (
             <div className="MainPage">
-                <NavBar/>
+                <NavBar/> 
                 <Carrousel/>
                 <CardList data={SkillsData}/>
                 <Contacto data={ContactoData}/>
