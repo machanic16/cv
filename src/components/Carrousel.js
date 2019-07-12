@@ -1,8 +1,5 @@
 import React from 'react'
 import './styles/Carrousel.css'
-import img1 from '../images/personal/fsae.jpg'
-import img2 from '../images/personal/wallpaper.jpg'
-import img3 from '../images/personal/saestudent.jpg'
 import CarrouselData from '../data/CarouselImageData.json'
 
 class Carrousel extends React.Component {
@@ -18,8 +15,9 @@ class Carrousel extends React.Component {
                     <div className="carousel-inner">
                         {CarrouselData.map(item => {
                             return (
-                                <div className="carousel-item active">
+                                <div className="carousel-item active" key={item.id}>
                                     <img src={item.src} className="d-block w-100" alt="imagen1" />
+                                    {/* <img src="../images/personal/fsae.jpg" className="d-block w-100" alt="esta mierda no carga" /> */}
                                 </div>
                             )
                         })}
