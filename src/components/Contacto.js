@@ -5,7 +5,7 @@ import BadgeSocial from './BadgeSocial.js'
 
 function Contacto(props) {
     return (
-        <div className="Contacto">
+        <div className="Contacto" id="contacto">
             <div className="container">
                 <div className="row">
                     <div className="col">

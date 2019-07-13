@@ -1,6 +1,6 @@
 import React from 'react'
 import './styles/Card.css'
-import img from '../images/german.jpg'
+import img from '../images/ingles.jpg'
 
 function Card(props) {
     return (
@@ -10,7 +10,7 @@ function Card(props) {
                 
                 <div className="card-body">
                 <h1>{props.name}</h1>
-                {console.log(img)}
+                {/*console.log(img)*/}
                     <p className="card-text">{props.text}</p>
                 </div>
             </div>

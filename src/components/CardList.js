@@ -8,7 +8,7 @@ class CardList extends React.Component {
     render() {
         return (
             
-            <div className="CardList">
+            <div className="CardList" id="conocimientos">
                 <div className="container-fluid">
                     <div className="row justify-content-center">
                         <div className="col-4 col-tittle">
