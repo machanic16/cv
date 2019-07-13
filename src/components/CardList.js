@@ -11,7 +11,7 @@ class CardList extends React.Component {
             <div className="CardList" id="conocimientos">
                 <div className="container-fluid">
                     <div className="row justify-content-center">
-                        <div className="col-4 col-tittle">
+                        <div className="col-md-4 col-tittle description">
                             <h1>Conocimiento </h1><h1>en las siguientes areas</h1>
                         </div>
                     </div>

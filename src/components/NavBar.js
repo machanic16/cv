@@ -20,7 +20,7 @@ function NavBar(){
                         <li className="nav-item">
                             <a className="nav-link" href="#">Actividades</a>
                         </li>
-                        {/* <li className="nav-item dropdown">
+                        <li className="nav-item dropdown">
                             <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Dropdown link
                             </a>
@@ -29,7 +29,7 @@ function NavBar(){
                             <a className="dropdown-item" href="#">Another action</a>
                             <a className="dropdown-item" href="#">Something else here</a>
                             </div>
-                        </li> */}
+                        </li>
                         </ul>
                     </div>
                 </header>

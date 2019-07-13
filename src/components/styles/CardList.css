@@ -4,6 +4,10 @@
 h1{
     color: black;
 }
+
+.col-md h1{
+    font-size: 1.5em;
+}
 .skils-list{
     background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
     border-radius: 5px;
