@@ -1,12 +1,15 @@
 [
     {
-        "src":"/static/media/fsae.d01c542f.jpg"
+        "src":"../images/personal/fsae.jpg",
+        "id":"1"
     },
     {
-        "src":"/static/media/wallpaper.ff965011.jpg"
+        "src":"/static/media/wallpaper.ff965011.jpg",
+        "id":"2"
     },
     {
-        "src":"/static/media/saestudent.0bf7ff4e.jpg"
+        "src":"/static/media/saestudent.0bf7ff4e.jpg",
+        "id":"3"
     }
     
 ]

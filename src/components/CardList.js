@@ -7,6 +7,7 @@ import './styles/CardList.css'
 class CardList extends React.Component {
     render() {
         return (
+            
             <div className="CardList">
                 <div className="container-fluid">
                     <div className="row justify-content-center">
@@ -21,7 +22,7 @@ class CardList extends React.Component {
                         {this.props.data.map(item => {
                             return (
                                 <div className="col-12 col-sm-6 col-md-4 col-lg-3" key={item.id}>
-                                    <Card image={item.src} name={item.name} text={item.comentario}/>
+                                    <Card image={item.src} name={item.name} text={item.comentario} />
                                     
                                 </div>
                             )

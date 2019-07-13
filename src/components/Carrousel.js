@@ -1,6 +1,9 @@
 import React from 'react'
 import './styles/Carrousel.css'
-import CarrouselData from '../data/CarouselImageData.json'
+import img1 from '../images/personal/fsae.jpg'
+import img2 from '../images/personal/wallpaper.jpg'
+import img3 from '../images/personal/saestudent.jpg'
+
 
 class Carrousel extends React.Component {
     render() {
@@ -13,15 +16,15 @@ class Carrousel extends React.Component {
                         <li data-target="#carouselExampleIndicators" data-slide-to="2" className="active"></li>
                     </ol>
                     <div className="carousel-inner">
-                        {CarrouselData.map(item => {
-                            console.log(item)
-                            return (
-                                <div className="carousel-item active" key={item.id}>
-                                    <img src={item.src} className="d-block w-100" alt="imagen1" />
-                                    {/* <img src="../images/personal/fsae.jpg" className="d-block w-100" alt="esta mierda no carga" /> */}
-                                </div>
-                            )
-                        })}
+                        <div className="carousel-item active">
+                            <img src={img1} className="d-block w-100" alt="que se esta haciendo mal?"  />
+                        </div> 
+                        <div className="carousel-item">
+                            <img src={img2} className="d-block w-100" alt="imagen2" />
+                        </div>
+                        <div className="carousel-item">
+                            <img src={img3} className="d-block w-100" alt="imagen3" />
+                        </div> 
                     </div>
                     <a className="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                         <span className="carousel-control-prev-icon" aria-hidden="true"></span>
