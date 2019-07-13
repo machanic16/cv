@@ -5,6 +5,7 @@ import CardList from '../components/CardList'
 import Contacto from '../components/Contacto'
 import ContactoData from '../data/ContactoData.json'
 import SkillsData from '../data/SkillsData.json'
+import CarrouselData from '../data/CarouselImageData.json'
 
 
 class Main extends React.Component {
@@ -12,7 +13,7 @@ class Main extends React.Component {
         return (
             <div className="MainPage">
                 <NavBar/> 
-                <Carrousel/>
+                <Carrousel data={CarrouselData}/>
                 <CardList data={SkillsData}/>
                 <Contacto data={ContactoData}/>
             </div>
