@@ -1,3 +1,6 @@
+this page is an excersice about React.js bootstrap. it shows a little bit about my own skill in web develoment.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
